@@ -1,0 +1,95 @@
+﻿@using Azure.Core
+@model List<BookormaApplication.Models.Book>
+@{
+	var searchTerm = Context.Request.Query["searchTerm"].ToString();
+	var NewBook = ViewBag.NewBook as BookormaApplication.Models.Book;
+}
+
+<div id="wrapper">
+	<header>
+		<div id="page-banner">
+			<h1 class="title" >Bookorama</h1>
+			<p>Books for programming </p>
+			<form id="search-books" method="get" asp-action="Index">
+				<input type="text" id="search" name="searchTerm" placeholder="Search books..."
+					   value="@searchTerm" />
+				
+			</form>
+
+		</div>
+
+	</header>
+	<div id="book-list">
+		<h2 class="title">Books to Read</h2>
+		<ul class="ulbook">
+		@foreach(var bb in Model)
+		{
+			
+	
+		
+			<li>
+				<span class="name"> @bb.Title </span>
+					<a asp-action="Delete" asp-route-id="@bb.Id">  <span class="delete">delete</span> </a>
+			</li>
+			
+		
+		}
+		</ul>
+	</div>
+
+	<input type="checkbox" id="hide">
+	<label for="hide"> hide all books </label>
+
+	<form id="add-book" asp-action="Add" method="Post">
+		<input type="text"asp-for="@NewBook.Title"  class="hola" placeholder="Add a book..." />
+		<button>Add</button>
+	</form>
+
+</div>
+
+<script>
+		const addBtn = document.querySelector("button");
+	const input = document.querySelector(".hola");
+	const ul = document.querySelector(".ulbook");  // now it's the one wrapping all books
+	const hideCheckbox = document.querySelector("#hide");
+
+	// Add
+	addBtn.addEventListener("click", (e) => {
+		e.preventDefault();
+		const userValue = input.value.trim();
+
+		if (userValue !== "") {
+			const li = document.createElement("li");
+			const spanName = document.createElement("span");
+			const spanDelete = document.createElement("span");
+
+			spanName.textContent = userValue;
+			spanDelete.textContent = "delete";
+
+			spanName.classList.add("name");
+			spanDelete.classList.add("delete");
+			li.appendChild(spanName);
+			li.appendChild(spanDelete);
+			ul.appendChild(li);
+			input.value = "";
+		}
+	});
+
+	// Delete
+	ul.addEventListener("click", (e) => {
+	  if(e.target.classList.contains("delete")){
+		e.target.parentElement.remove();
+	  }
+	});
+
+	// Hide
+	hideCheckbox.addEventListener("change", (e) => {
+		if (hideCheckbox.checked) {
+			ul.style.display = "none";
+		} else {
+			ul.style.display = "block";
+		}
+	});
+
+
+</script>

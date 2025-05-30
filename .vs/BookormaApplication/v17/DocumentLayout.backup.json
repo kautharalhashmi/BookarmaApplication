@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER PC\\OneDrive\\Desktop\\aa\\BookormaApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A857CC4-EDE1-489A-89F3-D54E7EC32ECE}|BookormaApplication\\BookormaApplication.csproj|c:\\users\\user pc\\onedrive\\desktop\\aa\\bookormaapplication\\bookormaapplication\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A857CC4-EDE1-489A-89F3-D54E7EC32ECE}|BookormaApplication\\BookormaApplication.csproj|solutionrelative:bookormaapplication\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A857CC4-EDE1-489A-89F3-D54E7EC32ECE}|BookormaApplication\\BookormaApplication.csproj|c:\\users\\user pc\\onedrive\\desktop\\aa\\bookormaapplication\\bookormaapplication\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A857CC4-EDE1-489A-89F3-D54E7EC32ECE}|BookormaApplication\\BookormaApplication.csproj|solutionrelative:bookormaapplication\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A857CC4-EDE1-489A-89F3-D54E7EC32ECE}|BookormaApplication\\BookormaApplication.csproj|c:\\users\\user pc\\onedrive\\desktop\\aa\\bookormaapplication\\bookormaapplication\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A857CC4-EDE1-489A-89F3-D54E7EC32ECE}|BookormaApplication\\BookormaApplication.csproj|solutionrelative:bookormaapplication\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A857CC4-EDE1-489A-89F3-D54E7EC32ECE}|BookormaApplication\\BookormaApplication.csproj|c:\\users\\user pc\\onedrive\\desktop\\aa\\bookormaapplication\\bookormaapplication\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A857CC4-EDE1-489A-89F3-D54E7EC32ECE}|BookormaApplication\\BookormaApplication.csproj|solutionrelative:bookormaapplication\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A857CC4-EDE1-489A-89F3-D54E7EC32ECE}|BookormaApplication\\BookormaApplication.csproj|c:\\users\\user pc\\onedrive\\desktop\\aa\\bookormaapplication\\bookormaapplication\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9A857CC4-EDE1-489A-89F3-D54E7EC32ECE}|BookormaApplication\\BookormaApplication.csproj|solutionrelative:bookormaapplication\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A857CC4-EDE1-489A-89F3-D54E7EC32ECE}|BookormaApplication\\BookormaApplication.csproj|c:\\users\\user pc\\onedrive\\desktop\\aa\\bookormaapplication\\bookormaapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A857CC4-EDE1-489A-89F3-D54E7EC32ECE}|BookormaApplication\\BookormaApplication.csproj|solutionrelative:bookormaapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A857CC4-EDE1-489A-89F3-D54E7EC32ECE}|BookormaApplication\\BookormaApplication.csproj|c:\\users\\user pc\\onedrive\\desktop\\aa\\bookormaapplication\\bookormaapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A857CC4-EDE1-489A-89F3-D54E7EC32ECE}|BookormaApplication\\BookormaApplication.csproj|solutionrelative:bookormaapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A857CC4-EDE1-489A-89F3-D54E7EC32ECE}|BookormaApplication\\BookormaApplication.csproj|c:\\users\\user pc\\onedrive\\desktop\\aa\\bookormaapplication\\bookormaapplication\\bookormaapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A857CC4-EDE1-489A-89F3-D54E7EC32ECE}|BookormaApplication\\BookormaApplication.csproj|solutionrelative:bookormaapplication\\bookormaapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\Desktop\\aa\\BookormaApplication\\BookormaApplication\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "BookormaApplication\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\Desktop\\aa\\BookormaApplication\\BookormaApplication\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "BookormaApplication\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-30T20:17:49.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\Desktop\\aa\\BookormaApplication\\BookormaApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BookormaApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\Desktop\\aa\\BookormaApplication\\BookormaApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BookormaApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T20:16:25.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\Desktop\\aa\\BookormaApplication\\BookormaApplication\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookormaApplication\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\Desktop\\aa\\BookormaApplication\\BookormaApplication\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "BookormaApplication\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T20:14:19.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\Desktop\\aa\\BookormaApplication\\BookormaApplication\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookormaApplication\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\Desktop\\aa\\BookormaApplication\\BookormaApplication\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookormaApplication\\Controllers\\BookController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAywCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:09:21.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\Desktop\\aa\\BookormaApplication\\BookormaApplication\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookormaApplication\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\Desktop\\aa\\BookormaApplication\\BookormaApplication\\Models\\Book.cs",
+              "RelativeToolTip": "BookormaApplication\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:09:04.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\Desktop\\aa\\BookormaApplication\\BookormaApplication\\Program.cs",
+              "RelativeDocumentMoniker": "BookormaApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\Desktop\\aa\\BookormaApplication\\BookormaApplication\\Program.cs",
+              "RelativeToolTip": "BookormaApplication\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:59:34.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\Desktop\\aa\\BookormaApplication\\BookormaApplication\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BookormaApplication\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\Desktop\\aa\\BookormaApplication\\BookormaApplication\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "BookormaApplication\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:00:59.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookormaApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\Desktop\\aa\\BookormaApplication\\BookormaApplication\\BookormaApplication.csproj",
+              "RelativeDocumentMoniker": "BookormaApplication\\BookormaApplication.csproj",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\Desktop\\aa\\BookormaApplication\\BookormaApplication\\BookormaApplication.csproj",
+              "RelativeToolTip": "BookormaApplication\\BookormaApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-30T20:00:31.92Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
